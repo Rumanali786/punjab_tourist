@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295052534426",
+    "project_id": "punjab-tourist",
+    "storage_bucket": "punjab-tourist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295052534426:android:9bcbc1794765d565583523",
+        "android_client_info": {
+          "package_name": "com.example.punjabtourist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295052534426-e48iijh0nick9buiirkip5i0q8mjaaq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-KlwtPGVngudUll7wTbN5eg4EcVoxwfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295052534426-e48iijh0nick9buiirkip5i0q8mjaaq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
